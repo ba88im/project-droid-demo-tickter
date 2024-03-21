@@ -7,6 +7,7 @@ This take-home project involves developing a simplified version of Factory's 'Pr
 To get started, just clone the repository and run `npm install && npm run dev`:
 
     git clone https://github.com/ba88im/project-droid-demo-tickter
+    cd project-droid-demo-tickter
     npm install
     npm run dev
 
