@@ -20,3 +20,8 @@ To configure just copy '.env.example' over to '.env' and fill in the options.
 - ATLASSIAN_API_KEY can be created [here](https://id.atlassian.com/manage-profile/security/api-tokens)
 - DOMAIN can be found through the link to your Jira project (https://DOMAIN.atlassian.net/jira/)
 - PROJECT_KEY is the name of your Jira project and it can also be found through the link to your Jira project (https://DOMAIN.atlassian.net/jira/software/projects/PROJECT_KEY/boards/1/timeline)
+
+## Demo
+
+Demo for the project can be found [here](https://www.youtube.com/watch?v=QzY10Vdrsb8). 
+
